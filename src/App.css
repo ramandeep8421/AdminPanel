@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+    margin-top: 10px;
+}
+.otherPages{
+    flex: 2;
+    background-color: white;
+}
+.sidebarWrapper{
+    padding: 20px;
+    color: darkslategrey;
+}
+
+.sidebarMenu{
+    margin-bottom: 10px;
+}
+.sidebarTitle{
+    font-size: 13px;
+    color: rgba(211, 211, 211, 0.753);
+}
+.featuredTitle{
+    font-size: 20px;
+}
+.featuredMoneyContainer{
+    margin: 10px 0px;
+    display: flex;
+    align-items: center;
+}
+.featuredMoney{
+    font-size: 30px;
+    font-weight: 600;
+}
+.featuredMoneyRate{
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+ 
